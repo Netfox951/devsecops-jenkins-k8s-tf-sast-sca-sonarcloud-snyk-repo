@@ -303,7 +303,7 @@
 				</executions>
 			</plugin>
 			<!--# Changes for Software Composition Analysis Scan using Snyk
-#By ASecurityGuru
+#By ASecurityGuru and By Giorgio
 -->
     <plugin>
       <groupId>io.snyk</groupId>
@@ -311,7 +311,8 @@
       <version>2.0.0</version>
       <inherited>false</inherited>
       <configuration>
-        <org>asecurityguru</org>
+# Giorgio 27 05 2023 cambiata org da asecurityguru a Netfox951
+	<org>Netfox951</org>
       </configuration>
     </plugin>
 <!-- Snyk Changes for SCA Ends Here -->
