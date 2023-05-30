@@ -312,7 +312,7 @@
       <inherited>false</inherited>
       <configuration>
 # Giorgio 27 05 2023 cambiata org da asecurityguru a Netfox951
-	<org>Netfox951</org>
+	<org>asecurityguru</org>
       </configuration>
     </plugin>
 <!-- Snyk Changes for SCA Ends Here -->
